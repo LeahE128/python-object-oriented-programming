@@ -1,5 +1,5 @@
 # Introduction
-Two projects implemented to understand and learn the concepts of object oriented programming.
+Two projects implemented to understand and learn the concepts of object oriented programming using python.
 
 
 ## 1. billSplit
